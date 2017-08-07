@@ -3,7 +3,7 @@
 Plugin Name: DNI
 Plugin URI: https://tallerdewpress.com
 Description: Añade campo DNI en Woocoomerce
-Version: 1.1
+Version: 1.2
 Author: TallerdeWpress
 Author URI: 
 License: GPLv2 or later
